@@ -1,0 +1,39 @@
+version: "3.1"
+
+services:
+  db:
+    image: postgres:12-alpine
+    restart: always
+    volumes:
+      - ./sql/:/docker-entrypoint-initdb.d
+      - ./postgres:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+
+  build: &build
+    build: .
+    environment:
+      PGHOST: db
+      PGUSER: postgres
+      PGDATABASE: postgres
+      PGPASSWORD: password
+    volumes:
+      - ./:/app
+    working_dir: /app
+    restart: on-failure
+    depends_on:
+      - db
+    command: npx pgtyped -c config.json & 
+
+  watch:
+    <<: *build
+    command: npx pgtyped -w -c config.json
+
+  test:
+    <<: *build
+    depends_on:
+      - build
+    command: npx ts-node src/index.ts

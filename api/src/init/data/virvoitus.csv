@@ -1,0 +1,625 @@
+soda;The Coca-Cola Company;Coca Cola;Limppari;3
+soda;The Coca-Cola Company;Coca Cola Energy;Energiajuoma;4
+soda;The Coca-Cola Company;Coca Cola Energy No Sugar;Energiajuoma;4
+soda;The Coca-Cola Company;Coca Cola Zero;Limppari;2
+soda;The Coca-Cola Company;Coca Cola Zero Vanilla;Limppari;3,5
+soda;The Coca-Cola Company;Coca Cola Zero Peach;Limppari;3
+soda;The Coca-Cola Company;Coca Cola Zero Cherry;Limppari;3
+soda;The Coca-Cola Company;Coca Cola Zero Sugar Sitruuna;Limppari;2
+soda;The Coca-Cola Company;Coca Cola Light;Limppari;2
+soda;The Coca-Cola Company;Coca Cola Lime;Limppari;3
+soda;The Coca-Cola Company;Coca Cola Vanilla;Limppari;3,5
+soda;The Coca-Cola Company;Coca Cola Cherry;Limppari;3
+soda;The Coca-Cola Company;Coca Cola Cherry Vanilla;Limppari;4
+soda;The Coca-Cola Company;Coca Cola Kaneli;Limppari;2
+soda;The Coca-Cola Company;Coca Cola Zero Vadelma;Limppari;1,5
+soda;The Coca-Cola Company;Coca Cola Regular Mexico;Limppari;3
+soda;The Coca-Cola Company;Coca Cola Caffeine Free;Limppari;3
+soda;The Coca-Cola Company;Coca Cola Life;Limppari;3
+soda;The Coca-Cola Company;Coca Cola Diet Exotic Mango;Limppari;3
+soda;The Coca-Cola Company;Coca Cola Diet Feisty Cherry;Limppari;3
+soda;The Coca-Cola Company;Sprite;Limppari;3
+soda;The Coca-Cola Company;Sprite Zero;Limppari;2
+soda;The Coca-Cola Company;Sprite Lemon Lime & Cucumber;Limppari;1
+soda;The Coca-Cola Company;Sprite Cranberry;Limppari;3
+soda;The Coca-Cola Company;Fanta Appelsiini;Limppari;2
+soda;The Coca-Cola Company;Fanta Appelsiini Zero Sugar;Limppari;3
+soda;The Coca-Cola Company;Fanta Pineapple;Limppari;4
+soda;The Coca-Cola Company;Fanta Green Apple;Limppari;3,5
+soda;The Coca-Cola Company;Fanta Apple;Limppari;3,5
+soda;The Coca-Cola Company;Fanta Berry;Limppari;4
+soda;The Coca-Cola Company;Fanta Cherry;Limppari;3,5
+soda;The Coca-Cola Company;Fanta Peach;Limppari;4,25
+soda;The Coca-Cola Company;Fanta Fruit Punch;Limppari;4
+soda;The Coca-Cola Company;Fanta Grape;Limppari;3
+soda;The Coca-Cola Company;Fanta Grape Zero;Limppari;3,75
+soda;The Coca-Cola Company;Fanta Mango;Limppari;2
+soda;The Coca-Cola Company;Fanta Mansikka Zero;Limppari;2,5
+soda;The Coca-Cola Company;Fanta Vadelma & Passionhedelmä;Limppari;2
+soda;The Coca-Cola Company;Fanta Metsämarja;Limppari;3
+soda;The Coca-Cola Company;Fanta Shokata;Limppari;2,5
+soda;The Coca-Cola Company;Fanta Toronja;Limppari;3
+soda;The Coca-Cola Company;Fanta Strawberry;Limppari;3
+soda;The Coca-Cola Company;Fanta Fruit Twist Zero;Limppari;3,5
+soda;The Coca-Cola Company;Fanta Exotic;Limppari;4
+soda;The Coca-Cola Company;Fanta Hương Sá Xị;Limppari;4
+soda;The Coca-Cola Company;Fanta Laici Lychee;Limppari;3,5
+soda;The Coca-Cola Company;Fanta Mix Fruits Flavoured;Limppari;3,5
+soda;The Coca-Cola Company;Fanta Lemon;Limppari;4
+soda;The Coca-Cola Company;Fanta Strawberry & Kiwi;Limppari;2
+soda;The Coca-Cola Company;Fanta Mango Guava;Limppari;2
+soda;The Coca-Cola Company;Fanta Cassis;Limppari;4
+soda;The Coca-Cola Company;Fanta hương việt quất;Limppari;3
+soda;The Coca-Cola Company;Peace Tea Raspberry;Jäätee;3,5
+soda;Dr Pepper Snapple Group;"Dr Pepper ""Made with Real Sugar""";Limppari;3,5
+soda;Dr Pepper Snapple Group;Dr Pepper Cherry;Limppari;3
+soda;Dr Pepper Snapple Group;Dr Pepper Cherry Vanilla;Limppari;4
+soda;Dr Pepper Snapple Group;Dr Pepper Zero;Limppari;3
+soda;Dr Pepper Snapple Group;Dr Pepper Dark Berry;Limppari;4
+soda;Dr Pepper Snapple Group;Dr Pepper Vanilla Float;Limppari;4
+soda;Dr Pepper Snapple Group;Dr Pepper & Cream Soda;Limppari;4
+soda;Dr Pepper Snapple Group;Dr Pepper;Limppari;4
+soda;Dr Pepper Snapple Group;Dr Pepper Energy;Limppari;3
+soda;Dr Pepper Snapple Group;Big Blue;Limppari;5
+soda;Dr Pepper Snapple Group;Big Red;Limppari;4
+soda;Dr Pepper Snapple Group;Big Manzana;Limppari;4
+soda;Dr Pepper Snapple Group;Cherry 7 Up;Limppari;3
+soda;Dr Pepper Snapple Group;RC Cola;Limppari;2
+soda;Dr Pepper Snapple Group;"Schweppes ""The Original Ginger Ale""";Limppari;1
+soda;Laitilan Wirvoitusjuomatehdas Oy;Sitruuna Sooda Sitruunalimonaadi;Limppari;2
+soda;Laitilan Wirvoitusjuomatehdas Oy;Messina Veriappelsiinilimonaadi;Limppari;2
+soda;Laitilan Wirvoitusjuomatehdas Oy;Herra Hakkaraisen Banaanilimonaadi;Limppari;2
+soda;Laitilan Wirvoitusjuomatehdas Oy;Herra Hakkaraisen Päärynälimonaadi;Limppari;2,5
+soda;Laitilan Wirvoitusjuomatehdas Oy;Herra Hakkaraisen Omenalimonaadi;Limppari;3
+soda;Laitilan Wirvoitusjuomatehdas Oy;Herra Hakkaraisen Vadelmalimonaadi;Limppari;3,5
+soda;Laitilan Wirvoitusjuomatehdas Oy;Jaffa Appelsiinilimonaadi;Limppari;1
+soda;Laitilan Wirvoitusjuomatehdas Oy;Limone Limettilimonadi;Limppari;1
+soda;Laitilan Wirvoitusjuomatehdas Oy;Rio Cola Kolalimonaadi;Limppari;2
+soda;Laitilan Wirvoitusjuomatehdas Oy;Le Pom Hedelmälimonaadi;Limppari;2
+soda;Laitilan Wirvoitusjuomatehdas Oy;Panama Greippilimonaadi;Limppari;3
+soda;Laitilan Wirvoitusjuomatehdas Oy;Rainbow Cola Free;Limppari;2
+soda;Laitilan Wirvoitusjuomatehdas Oy;Rainbow Cola;Limppari;2
+soda;Laitilan Wirvoitusjuomatehdas Oy;Rainbow Citrus;Limppari;3
+soda;Laitilan Wirvoitusjuomatehdas Oy;Rainbow Orange Free;Limppari;2
+soda;Laitilan Wirvoitusjuomatehdas Oy;Blackstorm Energy;Energiajuoma;2,5
+soda;PepsiCo, Inc;Pepsi;Limppari;3
+soda;PepsiCo, Inc;Pepsi Light;Limppari;3
+soda;PepsiCo, Inc;Pepsi Max;Limppari;3
+soda;PepsiCo, Inc;Pepsi Max Cherry;Limppari;3
+soda;PepsiCo, Inc;Pepsi Max Ginger;Limppari;3
+soda;PepsiCo, Inc;Pepsi Max Lime;Limppari;4
+soda;PepsiCo, Inc;Pepsi Max Raspberry;Limppari;2
+soda;PepsiCo, Inc;Pepsi Twist;Limppari;5
+soda;PepsiCo, Inc;Pepsi Next;Limppari;2
+soda;PepsiCo, Inc;Pepsi Wild Cherry;Limppari;3
+soda;PepsiCo, Inc;Pepsi Vanilla Flavour;Limppari;4
+soda;PepsiCo, Inc;Pepsi Mango Flavour;Limppari;2
+soda;PepsiCo, Inc;Mountain Dew;Limppari;3
+soda;PepsiCo, Inc;Mountain Dew Supernova;Limppari;4
+soda;PepsiCo, Inc;"Mountain Dew JumpStart ""Blood Orange""";Energiajuoma;2
+soda;PepsiCo, Inc;"Mountain Dew JumpStart ""Black Cherry";Energiajuoma;3
+soda;PepsiCo, Inc;Mountain Dew JumpStart ”Energizing Citrus”;Energiajuoma;3
+soda;PepsiCo, Inc;Mountain Dew JumpStart ”Fruit Punch”;Energiajuoma;1,5
+soda;PepsiCo, Inc;7up;Limppari;2
+soda;PepsiCo, Inc;7up Free;Limppari;2
+soda;PepsiCo, Inc;7up Cocktail Exotique;Limppari;4
+soda;PepsiCo, Inc;7up Mojito;Limppari;2
+soda;PepsiCo, Inc;"Mirinda ""Orange""";Limppari;3
+soda;PepsiCo, Inc;"Mirinda ""Mix-it Pineapple & Pear""";Limppari;3
+soda;PepsiCo, Inc;"Mirinda ""Mix-it Strawberry & Lychee""";Limppari;3
+soda;PepsiCo, Inc;Schwip Schwap;Limppari;3
+soda;PepsiCo, Inc;Gatorade Lemon;Urheilujuoma;2
+soda;PepsiCo, Inc;Gatorade Cool Blue;Urheilujuoma;2,5
+soda;PepsiCo, Inc;Gatorade Blood Orange;Urheilujuoma;2
+soda;Oy Hartwall Ab;ED;Energiajuoma;3
+soda;Oy Hartwall Ab;ED Lemon Light;Energiajuoma;2
+soda;Oy Hartwall Ab;ED Green Light;Energiajuoma;2
+soda;Oy Hartwall Ab;ED Redberry;Energiajuoma;3,5
+soda;Oy Hartwall Ab;ED Gamer Light;Energiajuoma;3
+soda;Oy Hartwall Ab;ED Dragonfruit Frost Edition;Energiajuoma;3,5
+soda;Oy Hartwall Ab;ED Vanilia;Energiajuoma;3
+soda;Oy Hartwall Ab;ED Mango;Energiajuoma;3
+soda;Oy Hartwall Ab;ED BCAA Berry;BCAA-juoma;0
+soda;Oy Hartwall Ab;ED BCAA Pear;BCAA-juoma;0
+soda;Oy Hartwall Ab;Jaffa Appelsiini;Limppari;3
+soda;Oy Hartwall Ab;Jaffa Light;Limppari;3,25
+soda;Oy Hartwall Ab;Jaffa Palma;Limppari;3
+soda;Oy Hartwall Ab;Jaffa Italia Veriappelsiini;Limppari;2,5
+soda;Oy Hartwall Ab;Jaffa Sitrus Light;Limppari;2,5
+soda;Oy Hartwall Ab;Jaffa Greippi;Limppari;2
+soda;Oy Hartwall Ab;Jaffa Ananas Light;Limppari;3
+soda;Oy Hartwall Ab;Jaffa Mustikka;Limppari;3
+soda;Oy Hartwall Ab;Jaffa Vesimeloni-Vadelma;Limppari;2
+soda;Oy Hartwall Ab;Jaffa Jouluomena;Limppari;3
+soda;Oy Hartwall Ab;Jaffa Mango-Meloni;Limppari;4
+soda;Oy Hartwall Ab;Jaffa Guarana;Limppari;4,5
+soda;Oy Hartwall Ab;Jaffa Vihreä Mandariini;Limppari;4
+soda;Oy Hartwall Ab;Jaffa Vihreä Omena;Limppari;2,5
+soda;Oy Hartwall Ab;Jaffa Lime-Verigreippi Light;Limppari;3,5
+soda;Oy Hartwall Ab;Jaffa Juicy ”vadelma-sitrus”;Limppari;2
+soda;Oy Hartwall Ab;"Jaffa Juicy ”mango""";Limppari;2,5
+soda;Oy Hartwall Ab;Pommac;Limppari;2
+soda;Oy Hartwall Ab;Pommac Light;Limppari;2
+soda;Oy Hartwall Ab;Pommac Rosé;Limppari;2
+soda;Oy Hartwall Ab;Limonadi Omena;Limppari;2
+soda;Oy Hartwall Ab;Limonadi Päärynä;Limppari;2
+soda;Oy Hartwall Ab;Limonadi Vadelma;Limppari;3
+soda;Oy Hartwall Ab;Limonadi VadelmaSalmiakki;Limppari;3
+soda;Oy Hartwall Ab;Limonadi Ässämix;Limppari;4
+soda;Oy Hartwall Ab;Limonaadi Karkkipäivä;Limppari;3
+soda;Oy Hartwall Ab;"Novelle Plus ""Mango & Guava""";Kivennäisvesi;3,5
+soda;Oy Hartwall Ab;"Novelle Plus ""Aprikoosi & Jasmiini""";Kivennäisvesi;3
+soda;Oy Hartwall Ab;Novelle Plus ”ananas & passion”;Kivennäisvesi;3
+soda;Oy Hartwall Ab;Faxe Kondi Booster Energy Drink;Energiajuoma;1
+soda;Oy Hartwall Ab;Faxe Kondi Booster Energy Drink ”juicy passion”;Energiajuoma;3,5
+soda;Olvi Oyj;Cola Light;Limppari;1
+soda;Olvi Oyj;Cola;Limppari;0,5
+soda;Olvi Oyj;Jaffa;Limppari;2
+soda;Olvi Oyj;Lemon;Limppari;1
+soda;Olvi Oyj;Greippi Light;Limppari;0
+soda;Olvi Oyj;Ananas Light;Limppari;3
+soda;Olvi Oyj;Appelsiini Light;Limppari;2
+soda;Olvi Oyj;Kuka löi sisään? Cola;Limppari;2,5
+soda;Olvi Oyj;Teho;Energiajuoma;3
+soda;Olvi Oyj;Teho Lite Boost;Energiajuoma;2,5
+soda;Olvi Oyj;Teho Lite Red;Energiajuoma;3,5
+soda;Olvi Oyj;Teho Sport BCAA RED;BCAA-juoma;1
+soda;Olvi Oyj;Teho Sport BCAA BLUE;BCAA-juoma;1
+soda;Olvi Oyj;"Teho Sport ""Mustikka-Acai""";Urheilujuoma;1
+soda;Olvi Oyj;Motor Oil Energy Drink;Energiajuoma;1
+soda;Olvi Oyj;Motor Oil Energy Drink Sugar Free;Energiajuoma;1
+soda;Olvi Oyj;"Kane's Soda Pop Chula Vista Crush ""Raspberry-Lemon""";Limppari;4
+soda;Olvi Oyj;"Kane's Soda Pop Garden Grove Spin ""Pomelo-Caramel""";Limppari;2
+soda;Olvi Oyj;"Kane's Soda Pop Pasadena Pinch ""Lemon-Dragon Fruit""";Limppari;4
+soda;Olvi Oyj;Kane's Soda Pop Vacaville Splash;Limppari;2
+soda;Olvi Oyj;"Kane's Soda Pop Red Peak Rush ""Cherry & Plum""";Limppari;3,5
+soda;Olvi Oyj;"Kane's Soda Pop Carmel Valley Chop ""Cola & Herbs""";Limppari;3
+soda;Olvi Oyj;"Kane's Soda Pop The Wedge ""Watermelon & Lemon""";Limppari;3,5
+soda;Olvi Oyj;"Kane's Soda Pop Fresno Flirt ""Peach & Pear""";Limppari;1
+soda;Olvi Oyj;Kane’s Soda Pop Long Beach ”Blush Blueberry & Acai”;Limppari;2
+soda;Olvi Oyj;Kane’s Soda Pop Ventura Wheel ”Marshmallow & Bubblegum”;Limppari;2,5
+soda;Olvi Oyj;"Kane's Soda Pop Special Edition Coachella Chill ""Sour Apple & Yuzu"" ";Limppari;4
+soda;Olvi Oyj;Kane's Soda Pop Special Edition Temecula Twist ”Banana & Pear” ;Limppari;3
+soda;Olvi Oyj;KevytOlo Kuningatar mehukivennäisvesi;Kivennäisvesi;1
+soda;Olvi Oyj;KevytOlo Omena-Päärynä Mehukivennäisvesi;Kivennäisvesi;1
+soda;Olvi Oyj;"KevytOlo ""Sitruuna""";Kivennäisvesi;2
+soda;Olvi Oyj;Rainbow Citrus;Limppari;3
+soda;Olvi Oyj;Rainbow Cola Light;Limppari;2,5
+soda;Olvi Oyj;Rainbow Cola;Limppari;2,5
+soda;Olvi Oyj;Rainbow Orange Light;Limppari;2,5
+soda;Olvi Oyj;Muteman Premium Ginger Beer;Limppari;3,5
+soda;Rockstar, Inc.;ROCKST★R Original;Energiajuoma;3
+soda;Rockstar, Inc.;ROCKST★R Juiced (Mango-Orange-Passion Fruit);Energiajuoma;2,5
+soda;Rockstar, Inc.;ROCKST★R XDurance (Blueberry, Pomegranate, Acai);Energiajuoma;4
+soda;Rockstar, Inc.;ROCKST★R Freeze (Frozen Watermelon);Energiajuoma;3,5
+soda;Refresco Finland Oy;Mega Force;Energiajuoma;1
+soda;Refresco Finland Oy;Mega Force Sugar Free;Energiajuoma;2
+soda;Refresco Finland Oy;Mega Force BCAA Strawberry Lemon;Energiajuoma;0,25
+soda;Refresco Finland Oy;Rodeo;Energiajuoma;1,5
+soda;Refresco Finland Oy;Rodeo Light;Energiajuoma;1,5
+soda;Refresco Finland Oy;X-tra Cola;Limppari;1
+soda;Refresco Finland Oy;"Rainbow Ice Tea ""peach""";Jäätee;2
+soda;Refresco Finland Oy;"Rainbow Ice Tea ""lemon""";Jäätee;2
+soda;Refresco Finland Oy;"Rainbow ""Citrus Light""";Limppari;3,5
+soda;Refresco Finland Oy;"Rainbow ""Alkoholiton Sima""";Sima;2
+soda;Refresco Finland Oy;Rainbow Trooppinen Zn+E ”hiilihapotettu juoma”;Kivennäisvesi;3
+soda;Refresco Finland Oy;VIP Sima;Sima;3
+soda;Eckes-Granini Finland Oy Ab;"Marli ""Ice Tea Lemon - sokeriton""";Jäätee;2
+soda;Eckes-Granini Finland Oy Ab;"Marli ""Ice Tea Lemon""";Jäätee;3
+soda;Eckes-Granini Finland Oy Ab;"Marli ""Ice Tea Peach""";Jäätee;3
+soda;Eckes-Granini Finland Oy Ab;"Marli ""Ice Tea Green Tea & Lime""";Jäätee;3
+soda;Eckes-Granini Finland Oy Ab;"Marli ""Perinteinen sima""";Sima;2
+soda;Eckes-Granini Finland Oy Ab;Mehukatti Sima;Sima;2,5
+soda;Mad Croc Brands, Inc.;Mad Croc Energy Drink;Energiajuoma;2
+soda;Mad Croc Brands, Inc.;Mad Croc Sugar-Free;Energiajuoma;1,5
+soda;Mad Croc Brands, Inc.;Mad Croc Energy Cola;Energiajuoma;1
+soda;Mad Croc Brands, Inc.;Mad Croc Energy Coffee;Energiajuoma;2
+soda;Mad Croc Brands, Inc.;Mad Croc Energy Croc Choc;Energiajuoma;2
+soda;Mad Croc Brands, Inc.;"Mad Croc Juiced Energy ""Green Apple""";Energiajuoma;3
+soda;Mad Croc Brands, Inc.;"Mad Croc Juiced Energy ""Orange Cola""";Energiajuoma;2
+soda;Mad Croc Brands, Inc.;"Mad Croc Juiced Energy ""Orange""";Energiajuoma;2
+soda;Mad Croc Brands, Inc.;"Mad Croc Juiced Energy ""Peach Tea""";Energiajuoma;2,5
+soda;Rubicon Drinks Ltd ;Pomegranate;Limppari;3
+soda;Rubicon Drinks Ltd ;Sparkling Guava;Limppari;2
+soda;Rubicon Drinks Ltd ;Passion;Limppari;3
+soda;Rubicon Drinks Ltd ;Sparkling Mango;Limppari;3
+soda;Rubicon Drinks Ltd ;Sparkling Lychee;Limppari;4
+soda;Sun Mark Ltd;Royalty Ginger Beer;Limppari;4
+soda;Welch Food, Inc;Welch's Sparkling Grape Soda;Limppari;4
+soda;BOS Brands (Pty) Ltd;"BOS Ice Rooibos ""Lemon""";Jäätee;3
+soda;BOS Brands (Pty) Ltd;"BOS Ice Rooibos ""Lime & Ginger""";Jäätee;3
+soda;BOS Brands (Pty) Ltd;"BOS Ice Rooibos ""Peach""";Jäätee;3
+soda;Belvoir Fruit Farms Ltd;"Belvoir Fruit Farms Organic ""Elderflower""";Limppari;4
+soda;Belvoir Fruit Farms Ltd;"Belvoir Fruit Farms Organic ""Elderflower & Rose Pressé""";Limppari;4,5
+soda;Belvoir Fruit Farms Ltd;"Belvoir Fruit Farms Organic ""Lime & Lemongrass Pressé""";Limppari;3
+soda;Top Spirit GesmbH;"Stoli ""Ginger Beer""";Limppari;2,75
+soda;Monster Beverage Corporation;Monster Energy;Energiajuoma;3
+soda;Monster Beverage Corporation;Monster Energy The Doctor;Energiajuoma;2
+soda;Monster Beverage Corporation;Monster Energy Absolute Zero;Energiajuoma;3
+soda;Monster Beverage Corporation;Monster Rehab;Energiajuoma;4
+soda;Monster Beverage Corporation;Monster Rehab Raspberry Tea + Energy;Energiajuoma;3,5
+soda;Monster Beverage Corporation;Monster Energy Ultra;Energiajuoma;4,5
+soda;Monster Beverage Corporation;Monster Energy Ultra Red;Energiajuoma;2
+soda;Monster Beverage Corporation;Monster Energy Ultra Violet;Energiajuoma;3
+soda;Monster Beverage Corporation;Monster Energy Ultra Blue;Energiajuoma;3
+soda;Monster Beverage Corporation;Monster Energy Ultra Fiesta;Energiajuoma;3
+soda;Monster Beverage Corporation;Monster Energy Ultra Sunrise;Energiajuoma;2
+soda;Monster Beverage Corporation;Monster Energy LH44;Energiajuoma;3
+soda;Monster Beverage Corporation;Monster Juiced Mango Loco Energy + Juice;Energiajuoma;4
+soda;Monster Beverage Corporation;Monster Pipeline Punch;Energiajuoma;4
+soda;Monster Beverage Corporation;Monster Khaos;Energiajuoma;4,5
+soda;Monster Beverage Corporation;Monster Cuba-Libre;Energiajuoma;3
+soda;Monster Beverage Corporation;Monster Punch;Energiajuoma;3
+soda;Monster Beverage Corporation;Monster Triple Shot Espresso ”Salted Caramel”;Energiajuoma;4,5
+soda;Monster Beverage Corporation;Monster Triple Shot Espresso ”Vanilla Espresso”;Energiajuoma;4,5
+soda;Monster Beverage Corporation;Monster Triple Shot Espresso ”Espresso and Milk”;Energiajuoma;4
+soda;Monster Beverage Corporation;Monster Punch MIXXD;Energiajuoma;3
+soda;Unilever plc;Lipton Ice Tea Peach;Jäätee;2
+soda;Unilever plc;Lipton Green Ice Tea;Jäätee;2
+soda;Unilever plc;Lipton Ice Tea Lemon;Jäätee;2,5
+soda;Öun Drinks OÜ;"Öun ""Omenalimonadi""";Limppari;3
+soda;Öun Drinks OÜ;"Öun ""Punaherukkalimonadi""";Limppari;3
+soda;Sumol + Compal S.A;Sumol Appelsiini;Limppari;2
+soda;Sumol + Compal S.A;Sumol Fruit De La Passion;Limppari;2
+soda;Sumol + Compal S.A;Sumol Ananas;Limppari;2
+soda;No Carbs Company AB;NOCCO BCAA+ Omena;BCAA-juoma;1,5
+soda;No Carbs Company AB;NOCCO Caribbean;BCAA-juoma;2,5
+soda;No Carbs Company AB;NOCCO BCAA Päärynä;BCAA-juoma;2
+soda;No Carbs Company AB;NOCCO BCAA Tropical;BCAA-juoma;1
+soda;No Carbs Company AB;NOCCO BCAA Ice Soda;BCAA-juoma;3
+soda;No Carbs Company AB;NOCCO BCAA Carnival Exotic;BCAA-juoma;3
+soda;No Carbs Company AB;NOCCO Skumtomte;BCAA-juoma;1
+soda;No Carbs Company AB;NOCCO Rudolph's Apple;BCAA-juoma;2,5
+soda;No Carbs Company AB;NOCCO Carnival;BCAA-juoma;2
+soda;No Carbs Company AB;NOCCO Blueberry;BCAA-juoma;2
+soda;No Carbs Company AB;NOCCO FOCUS 3 Raspberry Blast;Energiajuoma;3,5
+soda;No Carbs Company AB;NOCCO FOCUS 2 Melon Crush;Energiajuoma;3,5
+soda;No Carbs Company AB;NOCCO FOCUS Cola;Energiajuoma;1,5
+soda;Harper Innovations Ltd.;"Moose Juice Extreme Energy ""Blue Raspberry Flavor""";BCAA-juoma;1,5
+soda;Harper Innovations Ltd.;"Moose Juice Extreme Energy ""Berry Flavor""";BCAA-juoma;1,5
+soda;Harper Innovations Ltd.;"Moose Juice Extreme Energy ""Green Apple Flavor""";BCAA-juoma;2
+soda;Orkla Care Oy;"True BCAA ""Citrus""";BCAA-juoma;0
+soda;Orkla Care Oy;"True BCAA ""Strawberry Acai""";BCAA-juoma;0
+soda;Orkla Care Oy;"True BCAA ""Blueberry Acai""";BCAA-juoma;0
+soda;Orkla Care Oy;"Maxim BCAA Boost ""Wild Strawberry""";BCAA-juoma;1
+soda;Orkla Care Oy;"Maxim BCAA Boost ""Lemon Ginger""";BCAA-juoma;1
+soda;Fentimans Ltd;Traditional Ginger Beer;Limppari;3,5
+soda;Fentimans Ltd;Rosè Lemonade;Limppari;4
+soda;Fentimans Ltd;Sparkling Lime & Jasmine;Limppari;3,5
+soda;Fentimans Ltd;Wild English Elderflower;Limppari;3
+soda;Fentimans Ltd;Sparkling Raspberry;Limppari;3,75
+soda;Fentimans Ltd;Curiosity Cola;Limppari;5
+soda;Fentimans Ltd;Victorian Lemonade;Limppari;3
+soda;Fentimans Ltd;Cherry Cola;Limppari;4
+soda;Fentimans Ltd;Lemon Shandy;Limppari;4
+soda;Fentimans Ltd;Mandarin & Seville Orange Jigger;Limppari;2
+soda;Boylan Bottling Company;Black Cherry;Limppari;4
+soda;Boylan Bottling Company;Creme;Limppari;4
+soda;Boylan Bottling Company;Ginger Ale;Limppari;3
+soda;Boylan Bottling Company;Root Beer;Limppari;4
+soda;Boylan Bottling Company;Original Birch Beer;Limppari;4
+soda;Boylan Bottling Company;Cane Cola;Limppari;4
+soda;Boylan Bottling Company;Grape;Limppari;5
+soda;Oy Sinebrychoff Ab;Muumi Metsämansikkalimonadi;Limppari;2,5
+soda;Oy Sinebrychoff Ab;Muumi Mustikka-Vadelma;Limppari;2,5
+soda;Oy Sinebrychoff Ab;Smurffi Päärynälimonadi;Limppari;2,5
+soda;Oy Sinebrychoff Ab;Battery Energy Drink;Energiajuoma;3
+soda;Oy Sinebrychoff Ab;Battery Black II;Energiajuoma;4
+soda;Oy Sinebrychoff Ab;Battery Energy Drink Remix;Energiajuoma;5
+soda;Oy Sinebrychoff Ab;Battery Energy Drink Pineapple;Energiajuoma;2,5
+soda;Oy Sinebrychoff Ab;Battery Energy Black Edition;Energiajuoma;3
+soda;Oy Sinebrychoff Ab;Battery No Calories;Energiajuoma;3
+soda;Oy Sinebrychoff Ab;Battery No Calories Lime;Energiajuoma;3
+soda;Oy Sinebrychoff Ab;Battery No Calories Peach+Raspberry;Energiajuoma;3,5
+soda;Oy Sinebrychoff Ab;Battery Jungled;Energiajuoma;3,5
+soda;Oy Sinebrychoff Ab;Battery Blueberry;Energiajuoma;4
+soda;Oy Sinebrychoff Ab;Battery Licorice Boost;Energiajuoma;3,5
+soda;Oy Sinebrychoff Ab;Battery Juiced Exotic;Energiajuoma;3
+soda;Oy Sinebrychoff Ab;Battery Juiced Citrus;Energiajuoma;3,5
+soda;Oy Sinebrychoff Ab;"Fuzetea ""Sitruuna - Musta tee""";Jäätee;3
+soda;Oy Sinebrychoff Ab;"Fuzetea ""Persikka ja Hibiskus - Musta tee""";Jäätee;3
+soda;Nokian Panimo Oy;Sun’n Root Beer;Limppari;0
+soda;Nokian Panimo Oy;Sun’n Ginger Beer;Limppari;1,5
+soda;Nokian Panimo Oy;Sun’n Cream Soda;Limppari;2
+soda;Nokian Panimo Oy;Sun'n Cloudy Lemon;Limppari;1
+soda;Nokian Panimo Oy;Sun'n Bloody Orange;Limppari;2
+soda;Nokian Panimo Oy;Sun'n Orange Cream Soda;Limppari;4
+soda;Nokian Panimo Oy;Sun'n Red Cherry;Limppari;4
+soda;Nokian Panimo Oy;Sun'n Rose Lemonade;Limppari;4
+soda;Nokian Panimo Oy;Sun’s Popcorn Soda;Limppari;2
+soda;Nokian Panimo Oy;Piña Colada;Limppari;3,25
+soda;Nokian Panimo Oy;Mojito;Limppari;3,75
+soda;Nokian Panimo Oy;"Brewer's Cold Brew ""Sparkling Coffee - Caramel""";Kahvijuoma;1,5
+soda;Nokian Panimo Oy;"Brewer's Cold Brew ""Sparkling Coffee - Original""";Kahvijuoma;1
+soda;Nokian Panimo Oy;"Brewer's Cold Brew ""Sparkling Tea - Pure Tea""";Jäätee;2,5
+soda;Mahla Forest Oy;"Voodoo Blue ""Mustikka & Mesiangervo""";Limppari;3
+soda;Mahla Forest Oy;Manzikka;Limppari;3,5
+soda;Mahla Forest Oy;"Ginger Sap ""Fresh ginger & Birch sap""";Limppari;1
+soda;Mahla Forest Oy;Pompom Meow Apple Limonade;Limppari;3
+soda;Mahla Forest Oy;Grrrreat Berry Taste;Limppari;3
+soda;Britvic plc;Red Devil;Energiajuoma;3
+soda;Britvic plc;Red Devil Gold;Energiajuoma;3
+soda;Osotspa Co.;M-150;Energiajuoma;3
+soda;A.G. Barr plc;Cherryade;Energiajuoma;3
+soda;A.G. Barr plc;Tizer;Limppari;3
+soda;A.G. Barr plc;Lemonade;Limppari;4
+soda;A.G. Barr plc;Red Kola;Limppari;4
+soda;A.G. Barr plc;American Cream Soda;Limppari;3
+soda;A.G. Barr plc;Irn-Bru Sugar Free;Limppari;3
+soda;A.G. Barr plc;Irn-Bru;Limppari;4
+soda;A.G. Barr plc;Irn-Bru Xtra;Limppari;4
+soda;A.G. Barr plc;"Barr's Originals ""Cream Soda with a twist of Raspberry""";Limppari;3,5
+soda;A.G. Barr plc;"Barr's Originals ""Cloudy Lemonade""";Limppari;4
+soda;A.G. Barr plc;"Barr's Originals ""Ginger Beer""";Limppari;4
+soda;A.G. Barr plc;"Barr ""Burdock 'N' Dandelion""";Limppari;3
+soda;A.G. Barr plc;KA Abbott's Ginger Beer;Limppari;4
+soda;Driver's Energy Oy;Driver’s Energy® Original;Energiajuoma;1
+soda;Driver's Energy Oy;Driver’s Energy® Original No-Sugar;Energiajuoma;0
+soda;Red Bull GmbH;Red Bull Energy Drink;Energiajuoma;3
+soda;Red Bull GmbH;Red Bull Energy Drink Sugarfree;Energiajuoma;3
+soda;Red Bull GmbH;"Red Bull Energy Drink ""Green Edition""";Energiajuoma;3
+soda;Red Bull GmbH;"Red Bull Energy Drink ""Blue Edition""";Energiajuoma;3
+soda;Red Bull GmbH;"Red Bull Energy Drink ""Yellow Edition""";Energiajuoma;2
+soda;Red Bull GmbH;"Red Bull Energy Drink ""Red Edition""";Energiajuoma;3
+soda;Red Bull GmbH;"Red Bull Energy Drink ""Orange Edition""";Energiajuoma;2,5
+soda;Red Bull GmbH;"Red Bull Energy Drink ""Winter Edition""";Energiajuoma;2
+soda;Red Bull GmbH;"Red Bull Energy Drink ""White Edition""";Energiajuoma;3,5
+soda;Red Bull GmbH;"Red Bull Energy Drink ""Lime Edition""";Energiajuoma;3,5
+soda;Red Bull GmbH;"Red Bull Energy Drink ""Winter Edition” Luumu-Kaneli";Energiajuoma;3
+soda;Red Bull GmbH;Red Bull Organics Simply Cola;Limppari;4
+soda;Bosmen GmbH;Sultan Cola;Limppari;3,5
+soda;Bosmen GmbH;Sultan Orange;Limppari;3
+soda;Bosmen GmbH;Sultan Power Drink;Energiajuoma;3
+soda;AmBev;Guaraná Antarctica;Limppari;4,5
+soda;Lidl Stiftung & Co. KG;Freeway Hallon;Limppari;1
+soda;Lidl Stiftung & Co. KG;Freeway Lemon;Limppari;3
+soda;Lidl Stiftung & Co. KG;Freeway Lemon-lime;Limppari;1
+soda;Lidl Stiftung & Co. KG;Freeway Lemon Sour;Limppari;2
+soda;Lidl Stiftung & Co. KG;Freeway Elderflower;Limppari;2
+soda;Lidl Stiftung & Co. KG;Freeway Raspberry & Lavender;Limppari;2
+soda;Lidl Stiftung & Co. KG;Freeway Orange;Limppari;1
+soda;Lidl Stiftung & Co. KG;Freeway Orange Zero;Limppari;2
+soda;Lidl Stiftung & Co. KG;Freeway Mausteinen Jouluomena;Limppari;3
+soda;Lidl Stiftung & Co. KG;Freeway Cola Zero Sugar;Limppari;0
+soda;Lidl Stiftung & Co. KG;Freeway Cola Light;Limppari;1
+soda;Lidl Stiftung & Co. KG;"Freeway Cola Sugar-Free ""Lime""";Limppari;1
+soda;Lidl Stiftung & Co. KG;"Freeway Cola Sugar-Free ""Cherry""";Limppari;1
+soda;Lidl Stiftung & Co. KG;"Freeway ""Mansku limonadi""";Limppari;3
+soda;Lidl Stiftung & Co. KG;Freeway Energy Classic;Energiajuoma;2
+soda;Lidl Stiftung & Co. KG;Siti Jaffa;Limppari;2
+soda;Lidl Stiftung & Co. KG;Kong Strong Wild Power Urban Classic;Energiajuoma;2
+soda;Lidl Stiftung & Co. KG;Kong Strong Wild Power Sugar Free;Energiajuoma;1
+soda;Lidl Stiftung & Co. KG;Kong Strong Cola;Energiajuoma;3
+soda;Lidl Stiftung & Co. KG;Kong Strong Wild Power;Energiajuoma;3
+soda;Lidl Stiftung & Co. KG;Kong Strong Colossus;Energiajuoma;3,5
+soda;Rainbow;Mansikka-Banaani virvoitusjuoma;Limppari;3
+soda;Rainbow;Orange;Limppari;3
+soda;Leader Foods Oy;Cola Energy Drink;Energiajuoma;1
+soda;Leader Foods Oy;2KICK Energy Drink Cola;Energiajuoma;1
+soda;Leader Foods Oy;"Reburn Reactive Drink ""Lemon Flavour""";Energiajuoma;1
+soda;Leader Foods Oy;"Läikky ""Kirpeä Omena""";Limppari;0
+soda;Leader Foods Oy;"Kulaus E-pelijuoma ""Energiajuoman ja Sitruunan makuinen""";Mehujuoma;1
+soda;Leader Foods Oy;"Kulaus E-pelijuoma ""Cola-Sitruuna Kofeiiniton""";Mehujuoma;1
+soda;Leader Foods Oy;"Crazy Gamer ""Tropical""";Limppari;1
+soda;Leader Foods Oy;"Crazy Gamer ""Energy Taste""";Limppari;2
+soda;Novamex;"Jarritos ""Guava""";Limppari;3
+soda;Novamex;"Jarritos ""Lime""";Limppari;3
+soda;Novamex;"Jarritos ""Pineapple""";Limppari;4
+soda;Novamex;"Jarritos ""Mexican cola""";Limppari;3,5
+soda;Novamex;"Jarritos ""Grapefruit""";Limppari;4
+soda;Novamex;"Jarritos ""Mandarin""";Limppari;3
+soda;Novamex;"Jarritos ""Mango""";Limppari;4
+soda;Desnoes and Geddes Limited;Old Jamaica Grape Soda;Limppari;5
+soda;Desnoes and Geddes Limited;Old Jamaica Fruit Punch;Limppari;5
+soda;Desnoes and Geddes Limited;Old Jamaica Pineapple Soda;Limppari;4
+soda;Desnoes and Geddes Limited;Old Jamaica Orange Mango Soda;Limppari;3,5
+soda;Desnoes and Geddes Limited;Old Jamaica Cream Soda;Limppari;4
+soda;Desnoes and Geddes Limited;Old Jamaica Diet Ginger Beer;Limppari;3
+soda;Desnoes and Geddes Limited;Old Jamaica Extra Fiery Ginger Beer;Limppari;4
+soda;Desnoes and Geddes Limited;Old Jamaica Ginger Beer;Limppari;4
+soda;Desnoes and Geddes Limited;Jamaica Grape Soda;Limppari;4,5
+soda;Desnoes and Geddes Limited;Jamaica Cream Soda;Limppari;4,5
+soda;Desnoes and Geddes Limited;Jamaica Pineapple Soda;Limppari;4
+soda;Bundaberg Brewed Drinks Pty Ltd;Bundaberg Ginger beer;Limppari;4
+soda;A&W Food Services of Canada, Inc.;A&W Root Beer;Limppari;4
+soda;Nichols Plc;Vimto;Limppari;3,5
+soda;Nichols Plc;Vimto Gold Ginger Beer;Limppari;3,5
+soda;Droga Kolinska, d.d.;Cockta Original;Limppari;4
+soda;Laihian Mallas Oy;Vita Nova;Energiajuoma;3,5
+soda;KDM Marketing- und Vertriebs GmbH - VOLT Germany;Volt Power Cola;Energiajuoma;2
+soda;KDM Marketing- und Vertriebs GmbH - VOLT Germany;Volt Cola Orange;Energiajuoma;2
+soda;VIP-Juicemaker Oy;Rainbow Sitrus Light;Limppari;3
+soda;VIP-Juicemaker Oy;Rainbow Festival Light;Limppari;1
+soda;VIP-Juicemaker Oy;Rainbow Festival;Limppari;2
+soda;VIP-Juicemaker Oy;Rainbow Päärynä;Limppari;3
+soda;VIP-Juicemaker Oy;Rainbow MangOrange;Limppari;3
+soda;VIP-Juicemaker Oy;Rainbow Ananas Light;Limppari;3,5
+soda;VIP-Juicemaker Oy;Rainbow Banana;Limppari;2,5
+soda;VIP-Juicemaker Oy;Rainbow RedOrange;Limppari;3
+soda;VIP-Juicemaker Oy;Rainbow Grapefruit;Limppari;1
+soda;VIP-Juicemaker Oy;X-tra Appelsiini;Limppari;2
+soda;White Rock Beverages;White Rock Root Beer;Limppari;3
+soda;White Rock Beverages;White Rock Cream Soda;Limppari;3
+soda;Finn Spring Oy;K-Menu Cola;Limppari;2
+soda;Finn Spring Oy;K-Menu Cola Light;Limppari;2
+soda;Finn Spring Oy;K-Menu Jaffa Light;Limppari;2
+soda;Finn Spring Oy;K-Menu Jaffa;Limppari;3
+soda;Finn Spring Oy;Pirkka Jaffa Light;Limppari;2
+soda;Finn Spring Oy;Pirkka Cola Light;Limppari;2
+soda;Finn Spring Oy;Pirkka Punainen Jaffa;Limppari;2
+soda;Finn Spring Oy;Pirkka Lemon-Lime;Limppari;3
+soda;Finn Spring Oy;Pirkka Ananas Light;Limppari;3
+soda;Finn Spring Oy;"Pirkka Parhaat ""Ginger Ale""";Limppari;2
+soda;Finn Spring Oy;"SPRING ""Perinteinen Julmust""";Julmust;1
+soda;Finn Spring Oy;"SPRING ""Perinteinen pääsiäisjuoma Påskmust""";Påskmust;2
+soda;Finn Spring Oy;"Rainbow ""Trooppinen hiilihappojuoma""";Kivennäisvesi;3
+soda;Finn Spring Oy;"Rainbow ""Vadelma B+C hiilihappojuoma""";Kivennäisvesi;2
+soda;Finn Spring Oy;"Kotimaista ""Kivennäisvesi - karpalo""";Kivennäisvesi;2
+soda;Finn Spring Oy;"Kotimaista ""Kivennäisvesi - vadelma""";Kivennäisvesi;1
+soda;Finn Spring Oy;"Pirkka ""Vihreä Omena""";Kivennäisvesi;2
+soda;Finn Spring Oy;"Pirkka ""Punainen Marja""";Kivennäisvesi;2
+soda;Finn Spring Oy;"SPRING ""Alkoholiton Sima""";Sima;1,5
+soda;Func Food Finland Oy;Celsius Cola;Virkistysjuoma;1
+soda;Func Food Finland Oy;Celsius Sitruuna-Lime;Virkistysjuoma;1
+soda;Func Food Finland Oy;Celsius Persikka-Mango;Virkistysjuoma;1
+soda;Func Food Finland Oy;Celsius Vadelma-Acai;Virkistysjuoma;1
+soda;Func Food Finland Oy;Celsius Peach Vibe;Virkistysjuoma;2
+soda;Func Food Finland Oy;Celsius Omena-Inkivääri;Virkistysjuoma;0
+soda;Grace Foods UK Ltd.;Grace Jamaican Style Ginger Beer;Limppari;3
+soda;Hall & Woodhouse Ltd.;Rio Tropical;Limppari;3
+soda;AMS Sourcing B.V.;"Euro Shopper ""Juiced Energy Drink""";Energiajuoma;2
+soda;AMS Sourcing B.V.;"Euro Shopper ""Energy Drink""";Energiajuoma;2
+soda;Refresco Benelux;"Euro Shopper ""Energy Drink with Berry Flavour""";Energiajuoma;3
+soda;Tranquini GmbH;"Tranquini ""Green Tea Twist""";Limppari;0
+soda;Tranquini GmbH;"Tranquini ""Ginger & Lemongrass""";Limppari;0
+soda;Tranquini GmbH;"Tranquini ""Mixed Berries""";Limppari;1,5
+soda;Baikal Getränke GmbH;"Wostok ""Pear & Rosemary""";Limppari;3
+soda;Bionade GmbH;"Bionade ""Lemon-Bergamot""";Limppari;0
+soda;Charlie's Natural B.V.;"Charlie's Natural Soda ""Apple, Lemon & Ginger""";Limppari;2
+soda;Charlie's Natural B.V.;"Charlie's Natural Soda ""Lemon, Lime & Mint""";Limppari;3
+soda;Charlie's Natural B.V.;"Charlie's Natural Soda ""Blueberry & Acai""";Limppari;2
+soda;Charlie's Natural B.V.;"Charlie's Natural Soda ""Orange & Mandarin""";Limppari;1,5
+soda;XL Energy Drink Corp.;XL Cranberry Energy;Energiajuoma;2
+soda;XL Energy Drink Corp.;XL Energy Drink;Energiajuoma;2
+soda;Cawston Press Ltd.;"Cawston Press ""Ginger Beer""";Limppari;2
+soda;Cawston Press Ltd.;"Cawston Press ""Rhubarb""";Limppari;3
+soda;Cawston Press Ltd.;"Cawston Press ""Cloudy Apple""";Limppari;3
+soda;Nova Trade Ltd.;TAFF - Energy Drink;Energiajuoma;2
+soda;Nova Trade Ltd.;Coffee Cola;Energiajuoma;1
+soda;Kallo Foods Ltd.;"Whole Earth ""Organic Sparkling Ginger Drink""";Limppari;2
+soda;Kallo Foods Ltd.;"Whole Earth ""Organic Sparkling Lemonade Drink""";Limppari;1
+soda;Kallo Foods Ltd.;"Whole Earth ""Organic Sparkling Cranberry Drink""";Limppari;2
+soda;Van Doorne Beverages B.V.;Spam Energy Drink;Energiajuoma;2
+soda;Sanpellegrino S.p.A;Sanpellegrino Limonata;Limppari;4
+soda;Sanpellegrino S.p.A;Sanpellegrino Aranciata;Limppari;1
+soda;Sanpellegrino S.p.A;Sanpellegrino Aranciata Rossa;Limppari;2
+soda;Vitamizu Sp. z o.o.;Vegan Cola;Limppari;3
+soda;Truders Sp. z o.o.;"Energia ""Wild Strawberry""";Kombucha;3
+soda;Truders Sp. z o.o.;"Energia ""Pure""";Energiajuoma;3
+soda;Gusto Organic Ltd.;Gusto Organic Original Energy;Energiajuoma;3
+soda;Gusto Organic Ltd.;Gusto Naturally Slim Cola;Limppari;4,5
+soda;Gusto Organic Ltd.;Gusto Organic Real Cola;Limppari;4,5
+soda;Arizona Beverage Company, Ltd.;AriZona Cowboy Cocktail Watermelon;Mehujuoma;3,5
+soda;Arizona Beverage Company, Ltd.;AriZona Cowboy Cocktail Mucho Mango;Mehujuoma;3,5
+soda;Arizona Beverage Company, Ltd.;AriZona Blueberry White Tea;Jäätee;3,5
+soda;Arizona Beverage Company, Ltd.;AriZona Pomegranate Green Tea;Jäätee;3,5
+soda;Arizona Beverage Company, Ltd.;AriZona Iced tea with Lemon flavour;Jäätee;3
+soda;Arizona Beverage Company, Ltd.;AriZona Half Iced Tea & Half Lemonade;Jäätee;3
+soda;Arizona Beverage Company, Ltd.;AriZona Original Green Tea with Citrus;Jäätee;3
+soda;Arizona Beverage Company, Ltd.;AriZona Original Green Tea with Honey;Jäätee;3
+soda;Loscher GmbH & Co. KG;Club-Mate Cola;Limppari;2
+soda;Loscher GmbH & Co. KG;Club-Mate IceT Kraftstoff;Jäätee;1
+soda;Loscher GmbH & Co. KG;Club-Mate Granat;Limppari;2
+soda;Brand Garage GmbH;"Herbal Moscow ""Fermented Ginger""";Limppari;3
+soda;Kellaripanimo Oy;"Organic Kombucha ""Sitruuna-Inkivääri""";Kombucha;4
+soda;Soulfresh UK Ltd;"LoBros Living Drinks ""Organic Cola Kombucha""";Kombucha;0,5
+soda;Raikastamo Oy;Bitter Lemon Soda;Limppari;3
+soda;Hatakosen Company Ltd.;"Hata Ramune ""Salt-Watermelon""";Ramune;3
+soda;Hatakosen Company Ltd.;Hata Ramune ”Blue Cola”;Ramune;3
+soda;Daiei Trading Co.;"Ramune ""Peach""";Ramune;3
+soda;Daiei Trading Co.;"Ramune ""Raspberry""";Ramune;2
+soda;Daiei Trading Co.;"Ramune ""Mango""";Ramune;3
+soda;Daiei Trading Co.;"Ramune ""Blueberry""";Ramune;3
+soda;Daiei Trading Co.;"Ramune ""Litchi""";Ramune;3
+soda;Daiei Trading Co.;"Ramune ""Yogurt""";Ramune;3
+soda;Daiei Trading Co.;"Ramune ""Muscat""";Ramune;3
+soda;Daiei Trading Co.;"Ramune ""Pineapple""";Ramune;3,5
+soda;Daiei Trading Co.;"Ramune ""Green apple""";Ramune;4
+soda;Daiei Trading Co.;"Ramune ""Kiwi""";Ramune;3,5
+soda;Japan Sangaria Beverage Co., Ltd.;"Sangaria ""Melon Soda""";Limppari;4
+soda;DyDo Group Holdings, Inc.;White Soda Jelly;Limppari;3
+soda;Acqua Minerale San Benedetto S.p.A;"San Benedetto Thè ""Sitruunatee""";Jäätee;3
+soda;Acqua Minerale San Benedetto S.p.A;"San Benedetto Thè ""Vihreä tee""";Jäätee;2
+soda;Acqua Minerale San Benedetto S.p.A;"San Benedetto Thè ""Persikkatee""";Jäätee;3
+soda;Rième Boissons;"La Mortuacienne ""Cola""";Limppari;4
+soda;Cruz Group Oy;"VIGO Kombucha ""Acai""";Kombucha;2
+soda;Cruz Group Oy;"VIGO Kombucha ""Vaahtera""";Kombucha;1
+soda;Flower of Life Ltd;"Equinox Kombucha ""Original""";Kombucha;1
+soda;Bevi Piu’ Naturale S.R.L;"Moka Instinct ""Italian Espresso Soda""";Limppari;1
+soda;King Juice Company, Inc.;Calypso Pink Guava Limeada;Limppari;3
+soda;Spendrups Bryggeri AB;Trocadero;Limppari;3,5
+soda;Spendrups Bryggeri AB;Cuba Cola;Limppari;3,5
+soda;Herrljunga Cider AB;Klassisk Julmust;Julmust;3,5
+soda;Oy Lars Ekroos AB;Stockmos Julmust;Julmust;3,5
+soda;Oy Lars Ekroos AB;Stockmos Påskmust;Påskmust;2
+soda;Hermann Pfanner Getränke GmbH;"Pfanner ""IceTea - Lemon-Lime""";Jäätee;3
+soda;Hermann Pfanner Getränke GmbH;"Pfanner ""IceTea - Mango-Maracuja""";Jäätee;3
+soda;Hermann Pfanner Getränke GmbH;"Pfanner ""IceTea - Peach""";Jäätee;3
+soda;The Dad's Root Beer Company, LLC;Dad's Old Fashioned Root Beer;Root beer;3,5
+soda;Hartridges British Soft Drinks Co.;"Francis Hartridge's Celebrated ""Root Beet""";Limppari;3,5
+soda;Hartridges British Soft Drinks Co.;"Francis Hartridge's Celebrated ""Original Cola""";Limppari;4
+soda;Hartridges British Soft Drinks Co.;"Francis Hartridge's Celebrated ""Dandelion & Burdock""";Limppari;4,5
+soda;Hartridges British Soft Drinks Co.;"Francis Hartridge's Celebrated ""Rose Lemonade""";Limppari;3
+soda;Lejos Oy;"NOMNOM Hedelmähuikka 'Persikka & Mango""";Mehujuoma;1
+soda;Lejos Oy;"NOMNOM Hedelmähuikka 'Mango & Passion""";Mehujuoma;2,5
+soda;Chia Khim Lee Food Industries Pte Ltd;"Sagiko ""Boisson de Lychee""";Mehujuoma;3
+soda;Chia Khim Lee Food Industries Pte Ltd;"Sagiko ""Boisson de Mangue""";Mehujuoma;3
+soda;Chia Khim Lee Food Industries Pte Ltd;"Sagiko ""Tamarind drink""";Mehujuoma;2,5
+soda;Chia Khim Lee Food Industries Pte Ltd;"Sagiko ""Pineapple drink""";Mehujuoma;2
+soda;ALKON Group;"Energy to Go ""Fire""";Energiajuoma;1,5
+soda;Eko Vit Sp.z.o.o;Euphoria Energy Drink;Energiajuoma;2
+soda;OSHEE Polska Sp.z.o.o;"Oshee Vitamin Zero ""Acai -Golden Beries Flavor Sparkling Drink""";Vitamiinivesi;1
+soda;OSHEE Polska Sp.z.o.o;"Oshee Vitamin Water ""Red Grape & Dragonfruit Flavour""";Vitamiinivesi;2
+soda;OSHEE Polska Sp.z.o.o;"Oshee Vitamin Energy ""Fruit Tropical Flavor Sparkling Drink""";Vitamiinivesi;2
+soda;OSHEE Polska Sp.z.o.o;"Oshee Vitamin Energy ""Orange Flavor Sparkling Drink""";Vitamiinivesi;1,5
+soda;Beagley Copperman BV;Sarsi Soda Drink;Limppari;3
+soda;Beagley Copperman BV;Mug Root Beer;Limppari;3,5
+soda;Diamond Beverages;"Pimento Gingembre ""Spicy Ginger""";Limppari;3,5
+soda;Kaskein Marja Oy;Kaskein Juhlasima;Sima;2
+soda;Refresco;Carters Root Beer;Limppari;3,5
+soda;No1 General Trading Sweden;Royal Crown Drink Energy Limited Edition;Energiajuoma;2
+soda;Gosling’s Rum;Goslings Ginger Beer;Limppari;3,5
+soda;Terme Di Crodo;Lime-Mint Soda;Limppari;3,5
+soda;Terme Di Crodo;Lemon Soda;Limppari;3
+soda;Realist Joogid OU;Realist Craft Drinks Tyrni Limonadi;Limppari;2,5
+soda;Realist Joogid OU;Realist Craft Drinks Mansikka-Raparperi Limonadi;Limppari;3,5
+soda;Keurig Dr Pepper;Canada Dry Cranberry Ginger Ale;Limppari;3
+soda;AS A.Le Coq;Dynami:t;Energiajuoma;3
+soda;Skärgårdscider Oy;Talvilimu;Limppari;3
+soda;Green Coco Europe GmbH;Coco Juice Pure Organic Coconut;Kookosvesi;1
+soda;Vitamin Well AB;Vitamin Well Reloaded Zero Citron / Lime;Vitamiinivesi;1
+soda;MM S.r.l;Beebad;Energiajuoma;2
+soda;Evoke Oy;Oshee Classic Combu Energy ;Energiajuoma;1
+soda;NVE Pharmaceuticals;Stacker 2 Extreme Energy Kickin' Classic Sugar Free;Energiajuoma;1
+soda;NVE Pharmaceuticals;Stacker 2 Extreme Energy Enraged Raspberry Zero;Energiajuoma;1
+soda;NVE Pharmaceuticals;Stacker 2 Extreme Energy Pounding Punch Zero;Energiajuoma;1
+soda;East Asian Food AB;Sponsor Original Flavoured;Urheilujuoma;1
+soda;Liroy B.V.;"Arctic Ocean ""Orange Flavour""";Limppari;2
+soda;Liroy B.V.;"Arctic Ocean ""Mandarin Flavour""";Limppari;2
+soda;Pyynikin Käsityöläispanimo Oy;"Cube Soda Pop ""sour apple""";Limppari;3,5
+soda;Pyynikin Käsityöläispanimo Oy;"Cube Soda Pop ""bitten orange""";Limppari;2
+soda;Pyynikin Käsityöläispanimo Oy;Skull Kola ”Orange Cola”;Limppari;1
+soda;Pyynikin Käsityöläispanimo Oy;Vadelma Sarvis;Limppari;0,5
+soda;Pyynikin Käsityöläispanimo Oy;Joululimpsa;Limppari;1,5
+soda;Pyynikin Käsityöläispanimo Oy;Norwich Lemon Lemonade;Limppari;1,5
+soda;Che Group Oy;Baikal;Limppari;3
+soda;Carabao Tawandang Co.,Ltd.;Carabao Energy Drink;Energiajuoma;4
+soda;iN's Mercato s.p.a;Get up energy drink;Energiajuoma;2
+soda;I.B.G. S.p.A.;Chinotto Neri;Energiajuoma;2
+soda;Exotica;Exotica Schocata;Limppari;3
+soda;Saimaa Brewing Co.;Kooky’s Mango Passion Sodapop;Limppari;3
+soda;Saimaa Brewing Co.;Kooky’s Mango Pomegranate Sodapop;Limppari;3
+soda;Saimaa Brewing Co.;Kooky’s Mango Ginger Lime Sodapop;Limppari;3,5
+soda;Saimaa Brewing Co.;Kooky’s Mango Blueberry Sopapop;Limppari;3,5
+soda;Gustav Paulig Ltd;Paulig Cold Brew ”Sparkling White tea”;Jäätee;2,5
+soda;American Soda;Chupa Chups Strawberry & Cream;Limppari;1,5
+soda;American Soda;Chupa Chups Grape;Limppari;1,5
+soda;American Soda;Chupa Chups Sparkling Melon Cream Flavour;Limppari;3,5
+soda;American Soda;Chupa Chups Sparkling Orange Flavour;Limppari;4
+soda;Ale Coq;Limonaad;Limppari;2,5
+soda;Nygårda;Nygårda Julmust Original;Limppari;3
+soda;Bang Energy, B,v;bang energy drink ”Rainbow Unicorn”;Energiajuoma;0,5
+soda;Bang Energy, B,v;bang energy drink ”Peach Mango”;Energiajuoma;4
+soda;Bang Energy, B,v;bang energy drink ”Candy Apple Crisp”;Energiajuoma;3
+soda;Bang Energy, B,v;bang energy drink ”Bangster Berry”;Energiajuoma;2
+soda;Bang Energy, B,v;bang energy drink ”Frosé Rosé”;Energiajuoma;2
+soda;Bang Energy, B,v;bang energy drink ”Pina Colada”;Energiajuoma;2
+soda;Bang Energy, B,v;bang energy drink ”Lemon Drop”;Energiajuoma;2
+soda;Lohilo;Lohilo Unicorn Dreams;Energiajuoma;3
+soda;Karma Drinks;Karma Drinks Karma Cola;Limppari;1
+soda;Karma Drinks;Karma Drinks Gingerella Ginger Ale;Limppari;1,5
+soda;Clean Sverige AB;clean drink ”Omena ja Päärynä”;Limppari;2
+soda;Clean Sverige AB;clean drink ”Maisnikka / Kiivi”;Limppari;2
+soda;Refresco;Ben Shaws Root Beer;Limppari;3
+soda;EMD AG;Powerking Watermelon;Limppari;2,5
+soda;EMD AG;Powerking;Limppari;2
