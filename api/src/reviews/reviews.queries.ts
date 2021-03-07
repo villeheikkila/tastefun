@@ -37,3 +37,35 @@ const insertReviewsIR: any = {"name":"InsertReviews","params":[{"name":"reviews"
 export const insertReviews = new PreparedQuery<IInsertReviewsParams,IInsertReviewsResult>(insertReviewsIR);
 
 
+/** 'FindAllReviews' parameters type */
+export interface IFindAllReviewsParams {
+  limit: string | null | void;
+}
+
+/** 'FindAllReviews' return type */
+export interface IFindAllReviewsResult {
+  id: number;
+  rating: number | null;
+  treat_id: number | null;
+  user_id: number | null;
+}
+
+/** 'FindAllReviews' query type */
+export interface IFindAllReviewsQuery {
+  params: IFindAllReviewsParams;
+  result: IFindAllReviewsResult;
+}
+
+const findAllReviewsIR: any = {"name":"FindAllReviews","params":[{"name":"limit","transform":{"type":"scalar"},"codeRefs":{"used":[{"a":225,"b":229,"line":12,"col":7}]}}],"usedParamSet":{"limit":true},"statement":{"body":"SELECT *\nFROM reviews \nLIMIT :limit","loc":{"a":195,"b":229,"line":10,"col":0}}};
+
+/**
+ * Query generated from SQL:
+ * ```
+ * SELECT *
+ * FROM reviews 
+ * LIMIT :limit
+ * ```
+ */
+export const findAllReviews = new PreparedQuery<IFindAllReviewsParams,IFindAllReviewsResult>(findAllReviewsIR);
+
+

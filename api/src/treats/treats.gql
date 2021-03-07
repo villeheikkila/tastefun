@@ -1,7 +1,10 @@
 type Treat {
+  id: Int
   name: String
+  category_name: String
+  subcategory_name: String
 }
 
-type Query {
+extend type Query {
   treats: [Treat]
 }

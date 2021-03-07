@@ -35,3 +35,36 @@ const insertSubcategoriesIR: any = {"name":"InsertSubcategories","params":[{"nam
 export const insertSubcategories = new PreparedQuery<IInsertSubcategoriesParams,IInsertSubcategoriesResult>(insertSubcategoriesIR);
 
 
+/** 'FindAllSubcategories' parameters type */
+export interface IFindAllSubcategoriesParams {
+  limit: string | null | void;
+}
+
+/** 'FindAllSubcategories' return type */
+export interface IFindAllSubcategoriesResult {
+  id: number;
+  name: string | null;
+  category_id: number | null;
+  category_name: string | null;
+}
+
+/** 'FindAllSubcategories' query type */
+export interface IFindAllSubcategoriesQuery {
+  params: IFindAllSubcategoriesParams;
+  result: IFindAllSubcategoriesResult;
+}
+
+const findAllSubcategoriesIR: any = {"name":"FindAllSubcategories","params":[{"name":"limit","transform":{"type":"scalar"},"codeRefs":{"used":[{"a":320,"b":324,"line":12,"col":7}]}}],"usedParamSet":{"limit":true},"statement":{"body":"SELECT s.*, c.name as category_name\nFROM subcategories s\nLEFT JOIN categories c ON c.id = s.category_id \nLIMIT :limit","loc":{"a":208,"b":324,"line":9,"col":0}}};
+
+/**
+ * Query generated from SQL:
+ * ```
+ * SELECT s.*, c.name as category_name
+ * FROM subcategories s
+ * LEFT JOIN categories c ON c.id = s.category_id 
+ * LIMIT :limit
+ * ```
+ */
+export const findAllSubcategories = new PreparedQuery<IFindAllSubcategoriesParams,IFindAllSubcategoriesResult>(findAllSubcategoriesIR);
+
+

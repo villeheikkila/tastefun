@@ -1,0 +1,8 @@
+type Review {
+  id: Int
+  rating: Float
+}
+
+extend type Query {
+  reviews: [Review]
+}

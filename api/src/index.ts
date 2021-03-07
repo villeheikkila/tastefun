@@ -1,23 +1,44 @@
 import { ApolloServer, gql } from "apollo-server";
-import { findAllTreats } from "./treats/treats.queries";
-import * as R from "remeda";
 import fs from "fs";
 
 import { client } from "./client";
 import { treatResolver } from "./treats/treats.resolver";
-import { categoriesResolver } from "./categories/categories.resolver";
+import { categoryResolver } from "./categories/categories.resolver";
+import { reviewResolver } from "./reviews/reviews.resolver";
+import { subcategoryResolver } from "./subcategories/subcategories.resolver";
+import { userResolver } from "./users/users.resolver";
+import { mergeResolvers } from "@graphql-tools/merge";
+import { companyResolver } from "./companies/companies.resolver";
+
+const typeDefs = [
+  gql(fs.readFileSync(__dirname.concat("/categories/categories.gql"), "utf8")),
+  gql(
+    fs.readFileSync(
+      __dirname.concat("/subcategories/subcategories.gql"),
+      "utf8"
+    )
+  ),
+  gql(fs.readFileSync(__dirname.concat("/reviews/reviews.gql"), "utf8")),
+  gql(fs.readFileSync(__dirname.concat("/companies/companies.gql"), "utf8")),
+  gql(fs.readFileSync(__dirname.concat("/treats/treats.gql"), "utf8")),
+  gql(fs.readFileSync(__dirname.concat("/users/users.gql"), "utf8")),
+];
+
+const resolvers = mergeResolvers([
+  categoryResolver,
+  reviewResolver,
+  treatResolver,
+  companyResolver,
+  subcategoryResolver,
+  userResolver,
+]);
 
 const main = async () => {
   await client.connect();
 
   const server = new ApolloServer({
-    typeDefs: [
-      gql(
-        fs.readFileSync(__dirname.concat("/categories/categories.gql"), "utf8")
-      ),
-      gql(fs.readFileSync(__dirname.concat("/treats/treats.gql"), "utf8")),
-    ],
-    resolvers: R.mergeAll([{}, treatResolver, categoriesResolver]),
+    typeDefs,
+    resolvers,
   });
 
   server.listen().then(({ url }) => {

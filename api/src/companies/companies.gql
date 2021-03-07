@@ -1,8 +1,8 @@
-type Category {
+type Company {
   id: Int
   name: String
 }
 
 extend type Query {
-  categories: [Category]
+  companies: [Company]
 }

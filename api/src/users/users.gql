@@ -1,0 +1,9 @@
+type User {
+  id: Int
+  name: String
+  reviews: [Review]
+}
+
+type Query {
+  users: [User]
+}

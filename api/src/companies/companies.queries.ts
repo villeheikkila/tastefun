@@ -33,3 +33,33 @@ const insertCompaniesIR: any = {"name":"InsertCompanies","params":[{"name":"comp
 export const insertCompanies = new PreparedQuery<IInsertCompaniesParams,IInsertCompaniesResult>(insertCompaniesIR);
 
 
+/** 'FindAllCompanies' parameters type */
+export interface IFindAllCompaniesParams {
+  limit: string | null | void;
+}
+
+/** 'FindAllCompanies' return type */
+export interface IFindAllCompaniesResult {
+  id: number;
+  name: string | null;
+}
+
+/** 'FindAllCompanies' query type */
+export interface IFindAllCompaniesQuery {
+  params: IFindAllCompaniesParams;
+  result: IFindAllCompaniesResult;
+}
+
+const findAllCompaniesIR: any = {"name":"FindAllCompanies","params":[{"name":"limit","transform":{"type":"scalar"},"codeRefs":{"used":[{"a":194,"b":198,"line":11,"col":7}]}}],"usedParamSet":{"limit":true},"statement":{"body":"SELECT *\nFROM companies \nLIMIT :limit","loc":{"a":162,"b":198,"line":9,"col":0}}};
+
+/**
+ * Query generated from SQL:
+ * ```
+ * SELECT *
+ * FROM companies 
+ * LIMIT :limit
+ * ```
+ */
+export const findAllCompanies = new PreparedQuery<IFindAllCompaniesParams,IFindAllCompaniesResult>(findAllCompaniesIR);
+
+

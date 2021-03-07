@@ -1,0 +1,9 @@
+type Subcategory {
+  id: Int
+  name: String
+  category: Category
+}
+
+extend type Query {
+  subcategories: [Subcategory]
+}

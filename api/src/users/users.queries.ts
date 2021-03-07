@@ -33,3 +33,36 @@ const insertUsersIR: any = {"name":"InsertUsers","params":[{"name":"users","code
 export const insertUsers = new PreparedQuery<IInsertUsersParams,IInsertUsersResult>(insertUsersIR);
 
 
+/** 'FindAllUsers' parameters type */
+export interface IFindAllUsersParams {
+  limit: string | null | void;
+}
+
+/** 'FindAllUsers' return type */
+export interface IFindAllUsersResult {
+  id: number;
+  name: string | null;
+  rating: number | null;
+  rating_id: number;
+}
+
+/** 'FindAllUsers' query type */
+export interface IFindAllUsersQuery {
+  params: IFindAllUsersParams;
+  result: IFindAllUsersResult;
+}
+
+const findAllUsersIR: any = {"name":"FindAllUsers","params":[{"name":"limit","transform":{"type":"scalar"},"codeRefs":{"used":[{"a":243,"b":247,"line":12,"col":7}]}}],"usedParamSet":{"limit":true},"statement":{"body":"SELECT u.*, r.rating, r.id as rating_id\nFROM users u\nLEFT JOIN reviews r ON u.id = r.user_id \nLIMIT :limit","loc":{"a":142,"b":247,"line":9,"col":0}}};
+
+/**
+ * Query generated from SQL:
+ * ```
+ * SELECT u.*, r.rating, r.id as rating_id
+ * FROM users u
+ * LEFT JOIN reviews r ON u.id = r.user_id 
+ * LIMIT :limit
+ * ```
+ */
+export const findAllUsers = new PreparedQuery<IFindAllUsersParams,IFindAllUsersResult>(findAllUsersIR);
+
+
